@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <img src="media/AnchorLogo.png" width="160" height="160" style="display: block; margin: 0 auto"/>
 <h1>Anchor</h1>
@@ -96,6 +98,7 @@ The app supports 7 remote control commands:
    - SMS (Read & Send)
    - Location (Precise & Background)
    - Phone (Make Calls)
+   - Contacts (Import trusted numbers)
    - Display Over Other Apps
 4. Configure your command prefix and password
 5. Set up phone number whitelist for security
